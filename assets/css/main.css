@@ -1750,8 +1750,8 @@ input, select, textarea {
 	}
 
 		.image img {
-			display: block;
-			width: 100%;
+			display: center;
+			width: 25%;
 		}
 
 		.image.avatar48 {
