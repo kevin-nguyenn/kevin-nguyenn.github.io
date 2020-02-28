@@ -128,6 +128,7 @@ input, select, textarea {
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+		font-weight: 900;
 	}
 
 		h2.alt {
@@ -1751,7 +1752,7 @@ input, select, textarea {
 
 		.image img {
 			display: center;
-			width: 80%;
+			width: 100%;
 		}
 
 		.image.avatar48 {
@@ -1771,8 +1772,8 @@ input, select, textarea {
 		}
 
 		.image.featured {
-			display: block;
-			width: 100%;
+			display: center;
+			width: 25%;
 			margin: 0 0 2em 0;
 		}
 
@@ -1992,7 +1993,8 @@ input, select, textarea {
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				font-size: 2em;
+				font-weight: 600;
 			}
 
 /* Icons */
